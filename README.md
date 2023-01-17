@@ -53,4 +53,4 @@ Transfer Learning:Transfer learning is a machine learning method where a model d
 
 
 
-[Project_LFM_presentation.pptx](https://github.com/YaqoobD/LFM_Brain-Tumor-Classification/files/10435358/Project_LFM_presentation.pptx)
+
